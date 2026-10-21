@@ -28,7 +28,8 @@ are not included in this repository.
 
 See [`code/README.md`](code/README.md) for the remote execution boundary and
 the reproducible stage order. See [`code/CODE_MANIFEST.md`](code/CODE_MANIFEST.md)
-for the script-level manifest.
+for the script-level manifest. Research declarations are recorded in
+[`DECLARATIONS.md`](DECLARATIONS.md).
 
 ## Repository contents
 
