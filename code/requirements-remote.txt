@@ -1,0 +1,9 @@
+# Tested remote environment for the ACC steroid-metabolism project.
+# Install only in the remote project environment.
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.1
+lifelines==0.30.3
+requests
+matplotlib

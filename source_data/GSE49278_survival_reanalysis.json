@@ -1,0 +1,69 @@
+{
+  "dataset": "GSE49278",
+  "parent_series": "GSE49280",
+  "source_paper": "Assie et al. 2014, Nat Genet, doi:10.1038/ng.2953",
+  "sample_bridge": "GEO !Sample_title ACC labels joined to MOESM14 Fig. 5b Tumor ID",
+  "n_geo_samples": 44,
+  "n_os_table_rows": 43,
+  "n_gsm_acc_matches": 44,
+  "n_os_matched": 42,
+  "n_os_matched_positive_time": 42,
+  "os_events_matched_positive_time": 19,
+  "os_table_unmatched_acc_labels": [
+    "ACC51"
+  ],
+  "geo_unmatched_acc_labels": [
+    "ACC27",
+    "ACC8"
+  ],
+  "mapped_program_genes": [
+    "DHCR7",
+    "HSD11B1",
+    "HSD11B2",
+    "HSD17B1",
+    "HSD17B3",
+    "LHCGR",
+    "MC2R",
+    "MRAP",
+    "POR",
+    "STAR"
+  ],
+  "mapped_program_gene_count": 10,
+  "locked_genes": [
+    "STAR",
+    "NR0B1",
+    "HSD11B2",
+    "AKR1C3"
+  ],
+  "locked_genes_missing_on_gpl16686": [
+    "NR0B1",
+    "AKR1C3"
+  ],
+  "complete_locked_score_validation": false,
+  "partial_program_os_association": {
+    "n": 42,
+    "events": 19,
+    "cindex": 0.7200704225352113,
+    "status": "ok",
+    "hr_per_score_unit": 5.447866375257278,
+    "ci_low": 1.7044652135930876,
+    "ci_high": 17.412645213271155,
+    "p": 0.004244046288852123
+  },
+  "recomputed_mapped_program_os_association": {
+    "n": 42,
+    "events": 19,
+    "cindex": 0.7200704225352113,
+    "status": "ok",
+    "hr_per_score_unit": 5.447866375257278,
+    "ci_low": 1.7044652135930876,
+    "ci_high": 17.412645213271155,
+    "p": 0.004244046288852123
+  },
+  "claim_status": "locked_four_gene_external_OS_validation_blocked; partial_program_OS_association_only",
+  "source_files": {
+    "geo_series_matrix_sha256": "6d106ef9055a88dd51a8c3bc5084e755314ca861d9f1348378c6599e02dc7843  /root/autodl-tmp/acc-steroid-metabolism/data/raw/geo/GSE49278_series_matrix.txt.gz",
+    "os_table_sha256": "3653c93637d2dbbc364a7407d353c01f78bf92649d382ee3970cf5067969a898",
+    "mapping_audit_sha256": "7f7809e779456daa7de646c68a95c9a9487c6686676726ae0ce2aa149bf11082"
+  }
+}

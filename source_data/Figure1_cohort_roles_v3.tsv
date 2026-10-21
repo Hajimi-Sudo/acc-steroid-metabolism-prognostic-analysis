@@ -1,0 +1,5 @@
+cohort	role	n	events	endpoint
+TCGA-ACC	Discovery / internal OOF	79	28	OS
+GSE19750	Frozen four-gene OS test	21	17	OS
+GSE49278	Partial program OS test	42	19	OS
+GSE49278	Expression mapping	44	0	Expression

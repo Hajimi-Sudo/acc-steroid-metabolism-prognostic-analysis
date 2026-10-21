@@ -1,0 +1,3 @@
+analysis	n	events	cindex	hr	ci_low	ci_high	p	status
+GSE19750 frozen four-gene score	21	17	0.676	1.337	0.779	2.296	0.292	locked score; small test
+GSE49278 mapped 10/22-gene program	42	19	0.7200704225352113	5.447866375257278	1.7044652135930876	17.412645213271155	0.004244046288852123	partial program; exploratory

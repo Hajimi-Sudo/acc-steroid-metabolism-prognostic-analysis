@@ -1,0 +1,5 @@
+cohort	role	endpoint	n	events	platform	status
+TCGA-ACC	discovery/internal validation	OS	79	28	RNA-seq	primary
+GSE19750	adult external test	OS	21	17	GPL570	small directional test
+GSE49278	partial program external test	OS	42	19	GPL16686	10/22 genes; locked score incomplete
+GSE49278	expression transportability	expression	44	NA	GPL16686	10/22 genes mapped
